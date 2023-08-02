@@ -1,0 +1,8 @@
+creds.py
+settings.py
+__pycache__/
+.chain_cookie
+ecosystem.config.js
+.venv*
+*.rdb
+test*

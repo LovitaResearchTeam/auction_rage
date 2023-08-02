@@ -1,0 +1,18 @@
+# AUCTION CONFS
+ROUND = 107
+DATE = {
+    "day": 26,
+    "month": 7,
+    "year": 2023,
+    "hour": 13,
+    "minute": 00,
+    "seconds": 00
+}
+
+# NODES
+BROADCAST_NODE = "testnet"
+WS_NODE = "lb"
+
+# USER CONFS
+MAX_ALLOWED_BID = 0
+RAISE_BID = 10
